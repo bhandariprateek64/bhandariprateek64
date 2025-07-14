@@ -46,6 +46,15 @@
 
 ---
 
+### 📈 Contribution Activity
+
+- ✅ [**Total contributions till July 14, 2025: 164+**](https://github.com/bhandariprateek64?tab=overview&from=2025-01-01&to=2025-12-31)
+- 🔥 Most active repo: [`Leetcode-Codes`](https://github.com/bhandariprateek64/Leetcode-Codes) — 52 commits
+- 📌 Public repos: 5+ (update as needed)
+- 📍 Focus: C++, DSA, Competitive Programming
+
+---
+
 ### 🧩 Connect With Me
 
 <p align="center">
