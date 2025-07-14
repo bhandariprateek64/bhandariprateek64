@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **DSA, Graph Problems, and System Design**
 - 🌱 I’m currently learning **Advanced C++, Operating Systems, and DBMS**
 - 💬 Ask me about **C++, STL, and Algorithms**
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/prateekbhandari)
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/bhandariprateek64?tab=repositories)
 - ⚡ Fun fact: I debug more than I breathe 😅
 
 ---
@@ -33,15 +33,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekbhandari&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhandariprateek64&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prateekbhandari&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhandariprateek64&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekbhandari&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhandariprateek64&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
